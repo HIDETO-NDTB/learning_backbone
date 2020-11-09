@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e861d916-53fd-4a67-a154-e86c5ffd6386" name="デフォルト変更リスト" comment="">
+      <change afterPath="$PROJECT_DIR$/../backbone_sample01/.idea/backbone_sample01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backbone_sample01_practice/.idea/backbone_sample01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backbone_sample02/.idea/backbone_sample02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backbone_sample02_practice/.idea/backbone_sample02_practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/backbone_sample02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react_redux_practice/.idea/react_redux_practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react_redux_text/.idea/react_redux_text.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react_sample01/.idea/react_sample01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react_sample02/.idea/react_sample02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_jquery/.idea/todo_jquery.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Laravel-Basic" beforeDir="false" afterPath="$PROJECT_DIR$/../../Laravel-Basic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PHP" beforeDir="false" afterPath="$PROJECT_DIR$/../../PHP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../laravel-blog" beforeDir="false" afterPath="$PROJECT_DIR$/../../laravel-blog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../make-rules" beforeDir="false" afterPath="$PROJECT_DIR$/../../make-rules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice2" beforeDir="false" afterPath="$PROJECT_DIR$/../../practice2" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1iV3fb5Z3KVrsep8NnqwwrRqgnw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e861d916-53fd-4a67-a154-e86c5ffd6386" name="デフォルト変更リスト" comment="" />
+      <created>1601979036145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601979036145</updated>
+      <workItem from="1601979037259" duration="3180000" />
+      <workItem from="1602050868737" duration="2206000" />
+      <workItem from="1602064697492" duration="6328000" />
+      <workItem from="1602136701462" duration="10046000" />
+      <workItem from="1602221492783" duration="14455000" />
+      <workItem from="1604901427063" duration="621000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="366" y="100" key="CommitChangelistDialog2" timestamp="1604902268093">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="366" y="100" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1604902268093" />
+    <state x="649" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604902210493">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="649" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1604902210493" />
+  </component>
+</project>
